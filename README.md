@@ -5,7 +5,7 @@ An epic fps counter!
 
 Just add this code to your html:
 ```
-<script src="https://github.com/VocalNutria9174/fpsjs/raw/main/fps.js"></script>
+<script src="https://vocalnutria9174.github.io/fpsjs/fps.js" type="text/javascript"></script>
 <div id="board" tabindex="0">
 	<div id="box"></div>
 </div><div id="board" tabindex="0">
