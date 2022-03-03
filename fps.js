@@ -20,8 +20,6 @@
 	}
 }
 
-
-	
 			var box,
 				boxWidth,
 				boxPos = 0,
